@@ -476,6 +476,7 @@ public class manejocliente {
 		int resp;
 		do {
 			System.out.println("Mola");
+			System.out.println("Mol0");
 			resp = menu();
 			switch (resp) {
 			case 1:
